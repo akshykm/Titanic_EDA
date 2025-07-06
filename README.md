@@ -3,7 +3,7 @@ This project is part of a data analyst internship program. The goal is to perfor
 
 ## Files
 * `Task5_Titanic_EDA.ipynb`: Google colab Notebook containing all the EDA steps, visualizations, and insights.
-* `titanic.csv`: Source dataset
+* `Titanic_Data.csv`: Source dataset
 
 ## Objectives
 * Load and understand the structure of the Titanic dataset.
